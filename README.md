@@ -1,11 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=300&section=header&text=ExyKnox&fontSize=90&animation=fadeIn)
 
 <p align="center" style="font-size=40px;">
-    <Strong>An ordinary human connecting dots about every moment</Strong><br>
+    <Strong>An ordinary human connecting dots about every experience✨</Strong><br>
 </p>
 
 <p align="center" style="font-size=40px;">
-<img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF"></a>  <Strong>hskhsk22000@gmail.com</Strong><br>
+<br> <br>
+<img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF"></a> <br>
+<Strong>hskhsk22000@gmail.com</Strong>
+<br> <br>
 </p>
 
 <p align="center">
