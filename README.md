@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=ExyKnox&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=300&section=header&text=ExyKnox&fontSize=90&animation=fadeIn)
 
 <p align="center" style="font-size=40px;">
     <Strong>An ordinary human connecting dots about every experience✨</Strong><br>
