@@ -3,7 +3,7 @@
 
 <H2 align="center">An ordinary human connecting dots about every experience✨</H2>
 
-<br>
+<br><br>
 
 <p align="center" style="font-size=40px;">
 <img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF"> <br>
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-<strong>🔨Tech Stack🔧</strong>
+<H3 align="center">🔨Tech Stack🔧</H3>
 </p>
 
 <p align="center">
