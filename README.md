@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=300&section=header&text=ExyKnox&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=300&section=header&text=ExyKnox&fontSize=90&animation=fadeIn&desc=%5Bexynox%5D%20%20%20%20%20The%20%22K%22%20is%20silent.&descAlignY=65&descAlign=58)
 
 <H2 align="center">An ordinary human connecting dots about every experience✨</H2>
 
