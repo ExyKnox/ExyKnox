@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<Strong>🔵Have confidence at🔵</Strong> 
+<Strong>🔵Frequently using🔵</Strong> 
 <br>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=FFFFFF">
