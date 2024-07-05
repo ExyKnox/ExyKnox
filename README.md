@@ -16,15 +16,9 @@
 </p>
 
 <p align="center">
-<Strong>🔵Frequently using🔵</Strong> 
 <br>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=FFFFFF">
-</p>
-
-<p align="center">
-<Strong>🔸Used at least once🔸</Strong>
-<br>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF">
